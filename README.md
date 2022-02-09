@@ -7,3 +7,5 @@ $ ./gradlew assemble
 $ cf8 push
 ```
 
+API Docs will be avaible @ /api-docs/
+
